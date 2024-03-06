@@ -1,5 +1,4 @@
 
-# About Me
 - 📊 Statistician and Data Scientist
 - 💻 R, Python, SQL, Tableau, Excel
 - 🔭 Open for work in the Stockholm/ Uppsala area
