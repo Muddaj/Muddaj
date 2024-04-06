@@ -1,6 +1,7 @@
 
-- 📊 Role: Statistician and Data Scientist
-- 💻 Tools: R, Python, SQL, Tableau, Excel
-- 🔭 Open for work: in the Stockholm/ Uppsala area
-- 🌱 Currently: Master's in Statistics and Data Science at Uppsala University, Sweden
-- 📫 Reach Me: www.linkedin.com/in/max-f-johansson
+- 📊 Aspiring:      Statistician and Data Scientist / Analyst
+- 💻 Software:      R, Python, SQL, Tableau, Excel
+- 🔭 Open for:      work in the Stockholm/ Uppsala area
+- 🌱 Currently:     studying to my Masters Degree in Statistics
+- 📫 Contact me:    max.f.johansson@outlook.com
+- 🌍 Linkedin:      www.linkedin.com/in/max-f-johansson
