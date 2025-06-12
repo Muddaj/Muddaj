@@ -1,4 +1,4 @@
 
-- 📊 Role:            Statistician and Data Scientist / Analyst
-- 💻 Software / code: SQL, R, Python, SAS, Power BI, DAX. 
-- 🔭 Open for:        Work in the Stockholm/ Uppsala area
+- 📊 Areas of Interest: Statistics, Data Science, Data Analysis. 
+- 💻 Code: SQL, R, Python, SAS, DAX. 
+- 🔭 Open for: Work in the Stockholm/ Uppsala area
